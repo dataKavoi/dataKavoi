@@ -1,5 +1,5 @@
 - 👋 Hi, My name is Simon Kavoi
-- 👀 I’m interested in data engineering
+- 👀 I’m interested in data science
 - 🌱 I’m currently learning Python,SQL, data modeling and data warehousing
 - 💞️ I’m looking to collaborate on interesting projects
 - 📫 How to reach me kavoisimon96@gmail.com
